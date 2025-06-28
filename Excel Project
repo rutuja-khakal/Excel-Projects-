@@ -1,11 +1,6 @@
 Smart Financial Analytics 
 
 I'm excited to share my latest excel Smart Financial Analytics Dashboard.
-## dataset used : 
-- <a href="https://github.com/rutuja-khakal/Excel-Projects-/blob/main/Fintrack%20Smart%20Financial%20Analytics%20Project%20using%20Excel.xlsx">Dataset views</a>
-
-## Dashboards :
-- <a href="https://github.com/rutuja-khakal/Excel-Projects-/blob/main/Screenshot%20(31).png">Dashboards views</a>
 
 To build an interactive and insightful financial dashboard using Microsoft Excel that helps in tracking and analyzing key financial metrics such as sales, profit, costs, and revenue trends across time periods, regions, and categories.
 
@@ -14,10 +9,11 @@ Category – Type of product , Sales – Revenue from transactions , Profit – 
 Cost – Incurred cost , Quantity – Number of items sold
 
 Tools used :  Pivot Tables used to summarizing sales, profits, and quantity across various dimentions like date, category, region etc.
-Pivot Charts : Used to visualize trends.
+Pivot Charts - Used to visualize trends.
 Slicers – Added to filter data by Region, Category, and Sub-Category interactively.
 Timeline Filter – Used to filter by specific months or years
 Conditional Formatting – Highlights high/low profit or sales performance
 Dashboard Sheet – Combines all visuals and slicers into a single interactive dashboard
 
-Summary : In this project, I developed a smart financial analytics dashboard using Excel to help track sales, profit, and cost trends across different categories and regions. I used Pivot Tables, Pivot Charts, slicers, and timelines to create a fully interactive dashboard, enabling stakeholders to make quick and informed financial decisions.
+Summary : In this project, I developed a smart financial analytics dashboard using Excel to help track sales, profit, and cost trends across different categories and regions. 
+I used Pivot Tables, Pivot Charts, slicers, and timelines to create a fully interactive dashboard, enabling stakeholders to make quick and informed financial decisions.
